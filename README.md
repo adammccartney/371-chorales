@@ -1,9 +1,9 @@
 # 371-chorales
 
-Lilypond and midi for Bach Chorales. Original work by Ph.Hardy
+Lilypond and midi for Bach Chorales. Original work by Ph. Hardy.
 
-This amazing piece of work came to light on the lilypind-user email list here:
-https://lists.gnu.org/archive/html/lilypond-user/2020-05/msg00386.html
+This great piece of work was [posted to the lilypond-user email list](
+https://lists.gnu.org/archive/html/lilypond-user/2020-05/msg00386.html)
 
 The license from that message is as follows:
 
